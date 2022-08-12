@@ -2,6 +2,8 @@
 Coffee_data: containing the consumer survey response data on coffee brands in the market coffee_data_lookup_table: describes the layout of the data. 
 The data contains consumer responses on both single select and multi-select questions. 
 Tasks
+
+
 1-Complete the following tasks for each of the two brands  – Starbucks and Maxwell House  
 
 
